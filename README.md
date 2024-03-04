@@ -6,7 +6,7 @@
 - Instance segmentation(Mask R-CNN) 모델 직접 개발
 - LaMa Inpainting 모델 활용
 ## 작업 기간
-2023. 11. 25. ~ 2023. 12. 03. 
+2023. 11. 25. ~ 2023. 12. 03
 ## 사용 모델
 Mask R-CNN, LaMa  Inpainting
 ## 사용 언어 및 개발 환경
